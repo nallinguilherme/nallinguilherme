@@ -4,6 +4,6 @@
 
 - 💡 Now in **High School**, lover of **sciences**;
 
-- 🖥️ Currently learning **ReactJS** and **GoLang**;
+- 🖥️ Currently learning **ReactJS** and **Rust**;
 
 - 🔨 Working on my **personal blog** and other **web front-end projects**.
