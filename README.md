@@ -1,9 +1,7 @@
 # Who am I ?
 
-🇧🇷 My name is **Guilherme Nallin**. I'm **a web developer** self-tought.
+🇧🇷 My name is **Guilherme Nallin**. I'm a self-tought _programmer_
 
 - 💡 Now in **High School**, lover of **sciences**;
 
-- 🖥️ Currently learning **ReactJS** and **Rust**;
-
-- 🔨 Working on my **personal blog** and other **web front-end projects**.
+- 🖥️ Currently learning **🦀 Rust**;
