@@ -7,3 +7,7 @@
 - 🖥️ Currently learning **🦀 Rust**;
 
 - 🔒 Interested in Cyber Security, mainly malware analysis and development.
+
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nallinguilherme&show_icons=true&theme=dracula)
