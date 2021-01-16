@@ -4,9 +4,9 @@
 
 - 💡 Now in **High School**, lover of **sciences**;
 
-- 🖥️ Currently learning **🦀 Rust**;
+- 🖥️ Currently learning **🦀 Rust** and **🐍 Python**;
 
-- 🔒 Interested in Cyber Security, mainly malware analysis and development.
+- 🔒 Interested in Cyber Security, mainly malware analysis/development and web hacking.
 
 <br>
 
