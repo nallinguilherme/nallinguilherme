@@ -10,4 +10,6 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nallinguilherme&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nallinguilherme&show_icons=true&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nallinguilherme&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
