@@ -1,6 +1,6 @@
 # Who am I ?
 
-🇧🇷 My name is **Guilherme Nallin**. I'm a self-tought _programmer_.
+🇧🇷 My name is **Guilherme Nallin** a.k.a _presto_. I'm a self-tought _programmer_.
 
 - 💡 Now in **High School**, lover of **sciences**;
 
