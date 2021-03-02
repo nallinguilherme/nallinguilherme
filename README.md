@@ -2,9 +2,11 @@
 
 🇧🇷 My name is **Guilherme Nallin** a.k.a _presto_. I'm a self-tought _programmer_.
 
-- 💡 Now in **High School**, lover of **sciences**;
+- 💡 Now in **High School**, student at COTIL - UNICAMP, lover of **sciences**;
 
 - 🖥️ Currently learning **🦀 Rust** and **🐍 Python**;
+
+- Founder of **Delta Organization Δ**;
 
 - 🔒 Interested in Cyber Security, mainly malware analysis/development and web hacking.
 
