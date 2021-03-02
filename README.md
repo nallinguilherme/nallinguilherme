@@ -6,7 +6,7 @@
 
 - 🖥️ Currently learning **🦀 Rust** and **🐍 Python**;
 
-- Founder of **Delta Organization Δ**;
+- Δ Founder of **Delta Organization**;
 
 - 🔒 Interested in Cyber Security, mainly malware analysis/development and web hacking.
 
